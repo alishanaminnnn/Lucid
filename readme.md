@@ -1,0 +1,2 @@
+#Lucid
+The following code just take argument a chat for deepseek, When we write deepseek and then a chat in the terminal the deepseek webapp automatically opens and the chat chat we wrote is automatically enteres in the chat bar and starts the chat.
