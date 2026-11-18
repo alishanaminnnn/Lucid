@@ -32,7 +32,5 @@ case ":$PATH:" in
 esac
 
 echo
-echo "To add the hotkey, put this line in your Hyprland keybindings file:"
-echo "  o.bind(\"SUPER + ALT + PRINT\", \"$NAME\", \"$DEST/$NAME\")"
-echo
+echo "Run it with: $NAME"
 echo "Docs and updates: $REPO_URL"
